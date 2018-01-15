@@ -6,6 +6,12 @@ Hayak is a travel booking website, providing consumers with tools to book flight
 
 ![alt text](https://user-images.githubusercontent.com/12638560/34939914-79ff1910-f9a2-11e7-90fc-870b401ebb9f.png)
 
+### Business Rules
+
+![alt text](https://user-images.githubusercontent.com/12638560/34940511-9d6ad252-f9a4-11e7-8c25-95407ae0dc18.png)
+
+![alt text](
+
 ### Create Table
 
 ![alt text](https://user-images.githubusercontent.com/12638560/34940240-a189f738-f9a3-11e7-8d6c-b96ddb319663.png)
